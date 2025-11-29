@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of Copy of MiVilla",
+  "description": "Plataforma de seguridad de condominios multi-tenant con asistencia de IA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
